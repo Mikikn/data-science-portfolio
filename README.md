@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Applied Data Science Lab | WorldQuant University (_September 2023_)								       		
-- Environmental  Data Analysis	| Bath Spa University (_Fevbruary 2023_)	 			        		
-- Data Science Professional Development Award	 | Edinburgh College (_January 2024_)
+- Applied Data Science Lab                      | WorldQuant University (_September 2023_)								       		
+- Environmental  Data Analysis                	| Bath Spa University (_Fevbruary 2023_)	 			        		
+- Data Science Professional Development Award	  | Edinburgh College (_January 2024_)
 
 
 
