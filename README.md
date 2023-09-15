@@ -11,11 +11,12 @@
 
 ## Projects
 ###  Footfall Counters in Parks - The Case of Devonport Park, Plymouth, UK
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
 
 The aim of this project is to analyze the footfall data collected from the 10 installed footfall
 counters in Devonport Park, Plymouth, and identify visitor patterns and trends. The data will be
 analyzed using analytical tools such as Python, Excel, and Power BI.
+
 
 
 
