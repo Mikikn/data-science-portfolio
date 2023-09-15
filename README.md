@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- WorldQuant University                  | Applied Data Science Lab  (_September 2023_)								       		
-- Bath Spa University              |Environmental  Data Analysis  (_Fevbruary 2023_)	 			        		
-- Edinburgh College	|Data Science Professional Development Award (_January 2024_)
+- WorldQuant University| Applied Data Science Lab  (_September 2023_)								       		
+- Bath Spa University|Environmental  Data Analysis  (_Fevbruary 2023_)	 			        		
+- Edinburgh College|Data Science Professional Development Award (_January 2024_)
 
 
 
@@ -18,14 +18,8 @@ counters in Devonport Park, Plymouth, and identify visitor patterns and trends. 
 analyzed using analytical tools such as Python, Excel, and Power BI.
 
 
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+
+- [LinkedIn](https://www.linkedin.com/in/michaele-knfe-756ba1231/)
 
 
